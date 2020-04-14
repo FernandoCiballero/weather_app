@@ -1,6 +1,6 @@
-# Wheather App / React
+# Wheather App / RoR React
 
-_Weather App made with React and consuming the OpenWeather API(https://openweathermap.org/)_
+_Weather App made with RoR and React and consuming the OpenWeather API(https://openweathermap.org/)_
 
 ## Starting 🚀
 
