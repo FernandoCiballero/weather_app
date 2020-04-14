@@ -1,24 +1,7 @@
-# README
+# Wheather App / React
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_Weather App made with React and consuming the OpenWeather API(https://openweathermap.org/)_
 
-Things you may want to cover:
+## Starting 🚀
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+_Under construction_
